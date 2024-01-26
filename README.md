@@ -1,5 +1,5 @@
 # clone the repo
-git clone https://github.com/devzakir/laravel-complete-blog-development.git laravel-blog
+git clone https://github.com/dev-rb-dev/booksaw.git laravel-booksaw
 
 # install composer dependency
 composer install
